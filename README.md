@@ -51,7 +51,8 @@ problem = [
 [5, 9, 8, 7, 3, 4, 1, 6, 2]
 [7, 6, 4, 2, 1, 9, 5, 3, 8]
 ```
-Which represents the following:
+
+Which represents the following:</br>
 ![alt text](figures/solution.png "Solution")</br>
 
 If the game has no solution it will print:</br>
